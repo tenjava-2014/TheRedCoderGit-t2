@@ -1,0 +1,3 @@
+name: TheRedCoderGit-t2
+main: com.tenjava.entries.TheRedCoderGit.t2.TenJava
+version: '${project.version}'
